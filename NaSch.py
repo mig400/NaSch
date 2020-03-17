@@ -181,9 +181,8 @@ class analisis:
 Mp , Mv = simulacion.lanzar_simulacion(10000,0.3,1000,5)
 analisis.grafica_posicion(Mp)
 #analisis.grafica_v_med(100,100,5)
- #sdknclsdkncldn
-            
-            
+
+#este .py es de la rama prueba                      
             
             
             
